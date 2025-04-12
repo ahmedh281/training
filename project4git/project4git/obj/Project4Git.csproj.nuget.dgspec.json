@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Courses\\Amit\\Git\\session\\Project4Git\\Project4Git\\Project4Git.csproj": {}
+    "D:\\Courses\\Amit\\Git\\session\\project4git\\Project4Git\\Project4Git.csproj": {}
   },
   "projects": {
-    "D:\\Courses\\Amit\\Git\\session\\Project4Git\\Project4Git\\Project4Git.csproj": {
+    "D:\\Courses\\Amit\\Git\\session\\project4git\\Project4Git\\Project4Git.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\Amit\\Git\\session\\Project4Git\\Project4Git\\Project4Git.csproj",
+        "projectUniqueName": "D:\\Courses\\Amit\\Git\\session\\project4git\\Project4Git\\Project4Git.csproj",
         "projectName": "Project4Git",
-        "projectPath": "D:\\Courses\\Amit\\Git\\session\\Project4Git\\Project4Git\\Project4Git.csproj",
+        "projectPath": "D:\\Courses\\Amit\\Git\\session\\project4git\\Project4Git\\Project4Git.csproj",
         "packagesPath": "C:\\Users\\aelhafez\\.nuget\\packages\\",
         "outputPath": "D:\\Courses\\Amit\\Git\\session\\Project4Git\\Project4Git\\obj\\",
         "projectStyle": "PackageReference",
