@@ -1,0 +1,15 @@
+D:\Courses\Amit\Git\session\project4git\project4git\bin\Debug\net8.0\project4git.exe
+D:\Courses\Amit\Git\session\project4git\project4git\bin\Debug\net8.0\project4git.deps.json
+D:\Courses\Amit\Git\session\project4git\project4git\bin\Debug\net8.0\project4git.runtimeconfig.json
+D:\Courses\Amit\Git\session\project4git\project4git\bin\Debug\net8.0\project4git.dll
+D:\Courses\Amit\Git\session\project4git\project4git\bin\Debug\net8.0\project4git.pdb
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\project4git.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\project4git.AssemblyInfoInputs.cache
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\project4git.AssemblyInfo.cs
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\project4git.csproj.CoreCompileInputs.cache
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\project4git.sourcelink.json
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\project4git.dll
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\refint\project4git.dll
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\project4git.pdb
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\project4git.genruntimeconfig.cache
+D:\Courses\Amit\Git\session\project4git\project4git\obj\Debug\net8.0\ref\project4git.dll
